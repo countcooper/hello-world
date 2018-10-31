@@ -5,5 +5,5 @@ learning github
 * I like mars tacos (=
 *  I live in the USA
 * I have a mars dogo
-* [https://www.youtube.com/channel/UCS5Oz6CHmeoF7vSad0qqXfw]
+* [DANTDM](https://www.youtube.com/channel/UCS5Oz6CHmeoF7vSad0qqXfw)
 
